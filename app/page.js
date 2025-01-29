@@ -1,4 +1,4 @@
-"use client";
+import Posts from "@/components/layout/Posts";
 import Image from "next/image";
 
 export default function Home() {
@@ -62,8 +62,11 @@ export default function Home() {
             generate image URLs and render them in your application.
           </li>
           <li>
-            Save your changes and test your setup by fetching data from Sanity
-            and rendering it in your application.
+            I have temporarily commented out{" "}
+            <code className="step-code">Posts.jsx</code>. You can uncomment it
+            once you have added your{" "}
+            <code className="step-code">projectId</code> to the{" "}
+            <code className="step-code">sanity/client</code> configuration.
           </li>
         </ol>
 
@@ -85,6 +88,7 @@ export default function Home() {
             Sanity docs →
           </a>
         </div>
+        {/* <Posts /> */}
       </main>
     </div>
   );
