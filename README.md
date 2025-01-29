@@ -2,7 +2,7 @@
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="" height="48" width="48" />
   <p></p>
 <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="Sanity Logo" height="48" />
-<img src="https://img.icons8.com/color/512/javascript.png" alt="" height="48" width="48"  />
+<img src="https://img.icons8.com/color/512/typescript.png" alt="typescript" height="48" width="48"  />
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Next.js-15.1.6-blue" alt="" />
@@ -14,10 +14,10 @@
 
 This is a simple template to get you started with **Next.js** and **Sanity** for building dynamic websites with ease. It's perfect for integrating content management with Next.js.
 
-## TypeScript Version
-If you are looking for a TypeScript version of this template, please check out the repository below:
+## JavaScript Version
+If you are looking for a JavaScript version of this template, please check out the repository below:
 
-[Next.js + Sanity + TypeScript](https://github.com/Anrsgrl/next-sanity-ts)
+[Next.js + Sanity + JavaScript](https://github.com/Anrsgrl/next-sanity-js)
 
 ## Get Started
 
@@ -29,11 +29,11 @@ You can use this template to create a new repository quickly by clicking the **U
 Alternatively, you can clone the repository directly using the following command:
 
 ```bash
-git clone https://github.com/Anrsgrl/next-sanity-js
+git clone https://github.com/Anrsgrl/next-sanity-ts
 ```
 After cloning, navigate to the project directory:
 ```bash
-cd next-sanity-js
+cd next-sanity-ts
 ```
 
 #### 3. Install Dependencies
