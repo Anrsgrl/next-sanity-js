@@ -36,7 +36,7 @@ export default function Home() {
           </li>
           <li className="mb-2">
             Install the required Sanity client library:{" "}
-            <code className="step-code">npm install @sanity/client</code>.
+            <code className="step-code">pnpm add @sanity/client</code>.
           </li>
           <li className="mb-2">
             To fetch data, use Sanity's{" "}
